@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+ul {
+    width: 500px;
+    height: 800px;
+    overflow-y: auto;
+    margin: 0 auto;
+}
+
+li {
+    background-color: #444;
+    color: #FFF;
+    border-top: 1px solid #DDD;
+    border-bottom: 1px solid #DDD;
+    padding-left: 12px;
+}
